@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Piyachet(Noy)
+- 👋 Hi, I’m Piyachet(Noy), From Thailand🇹🇭
 - 👀 I’m interested in product management role in tech company
 - 🌱 I’m currently learning JavaScript and more of web development
 - 💞️ I’m looking to collaborate on startup projects

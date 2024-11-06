@@ -8,14 +8,10 @@
 
 Visit my latest project 👉 [DealCat](https://dealcat.vercel.app)
 
+<!---
 <a href="https://dealcat.vercel.app">
   <img src="https://github.com/user-attachments/assets/322b25f8-5a72-4604-a527-9aed895ff2a1" alt="DealCat Project" width="360" align="left" style="margin-right: 10px; border-radius: 10px;">
 </a>
-
-<!---
-<div style="float: left; margin-right: 10px; overflow: hidden; border-radius: 10px;">
-  <img width="240" alt="image" src="https://github.com/user-attachments/assets/322b25f8-5a72-4604-a527-9aed895ff2a1">
-</div>
 
 <!---
 Piyachetnoy/Piyachetnoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

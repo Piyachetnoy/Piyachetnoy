@@ -2,8 +2,8 @@
 - 👀 Interested in software enginneer / product management role in tech company
 - 🌱 My main language is Python and I’m currently learning JavaScript and more of web dev
 - 💞️ Looking to collaborate on startup projects
-- 🌐 I speak English, Japanese and Thai
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
+- 🌐 I speak English🇬🇧, Japanese🇯🇵 and Thai🇹🇭
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
 - 😄 Pronouns: He/Him
 
 Visit My Lastest Project ==> [DealCat](https://dealcat.vercel.app) <br /> 

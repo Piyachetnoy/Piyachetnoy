@@ -6,13 +6,14 @@
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
 - 😄 Pronouns: He/Him
 
-Visit My Lastest Project ==> [DealCat](https://dealcat.vercel.app) <br /> 
+Visit My Lastest Project 👉 [DealCat](https://dealcat.vercel.app)
+
+[![DealCat Project](https://github.com/user-attachments/assets/322b25f8-5a72-4604-a527-9aed895ff2a1)](https://dealcat.vercel.app)
+
+<!---
 <div style="float: left; margin-right: 10px; overflow: hidden; border-radius: 10px;">
   <img width="240" alt="image" src="https://github.com/user-attachments/assets/322b25f8-5a72-4604-a527-9aed895ff2a1">
 </div>
-
-
-<!---- ⚡ Fun fact: --->
 
 <!---
 Piyachetnoy/Piyachetnoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

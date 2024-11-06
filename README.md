@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 
 Visit My Lastest Project ==> [DealCat](https://dealcat.vercel.app)
-<img width="1332" alt="image" src="https://github.com/user-attachments/assets/322b25f8-5a72-4604-a527-9aed895ff2a1">
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/322b25f8-5a72-4604-a527-9aed895ff2a1">
 
 
 <!---- ⚡ Fun fact: --->

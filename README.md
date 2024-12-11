@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/piyachet-p2145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 <h3 align="left">🎯 My recent project</h3>
-<a href="https://dealcat.vercel.app" target="blank">DealCat</a>
+<a href="https://dealcat.vercel.app" target="blank"><img align="center" src="https://ibb.co/5Rx3txs" alt="DealCat" height="30" width="40" />DealCat</a>
 
 <!---
 <a href="https://dealcat.vercel.app">

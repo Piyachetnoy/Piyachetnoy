@@ -1,11 +1,18 @@
-- 👋 Hi, I’m Piyachet (Noy), from Thailand
-- 👀 Interested in software engineering / product management roles in tech companies
-- 🌱 My main language is Python, and I’m currently learning JavaScript and web development
-- 💞️ Looking to collaborate on startup projects
-- 🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
+<h3 align="left">👋 Hello stranger</h3>
+<ul>
+  <li>✨ Hi, I’m Piyachet (Noy), from Thailand</li>
+  <li>👀 Interested in software engineering / product management roles in tech companies</li>
+  <li>🌱 My main language is Python, and I’m currently learning JavaScript and web development</li>
+  <li>💞️ Looking to collaborate on startup projects</li>
+  <li>🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭</li>
+</ul>
 
-Visit my latest project 👉 [DealCat](https://dealcat.vercel.app)
+<h3 align="left">📫 How to reach me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/piyachet-p2145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+
+<h3 align="left">🎯 My recent project</h3>
+<a href="https://dealcat.vercel.app" target="blank">DealCat</a>
 
 <!---
 <a href="https://dealcat.vercel.app">

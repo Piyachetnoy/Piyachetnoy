@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Piyachet (Noy), from Thailand @Japan
+- 👋 Hi, I’m Piyachet (Noy), from Thailand  <u>@Japan<u>
 - 👀 Interested in software engineering / product management roles in tech companies
 - 🌱 My main language is Python, and I’m currently learning JavaScript and web development
 - 💞️ Looking to collaborate on startup projects

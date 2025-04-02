@@ -5,4 +5,6 @@
 - 🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
 
-Visit my latest project 👉 [DealCat](https://dealcat.vercel.app)
+Visit my latest project <br>
+👉 [DealCat](https://dealcat.vercel.app) <br>
+👉 [AlphaMail](https://alphamailai.vercel.app)

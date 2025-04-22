@@ -7,4 +7,4 @@
 
 Visit my latest project <br>
 👉 [DealCat](https://dealcat.vercel.app) <br>
-👉 [AlphaMail](https://alphamailai.vercel.app)
+👉 [AlphaMail](https://www.alphamail.ink)

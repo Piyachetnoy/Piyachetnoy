@@ -3,7 +3,7 @@
 - 🌱 My main language is Python, and I’m currently learning JavaScript and web development
 - 💞️ Looking to collaborate on startup projects
 - 🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭
-- 📫 How to reach me: [Email](p.pongsantichai@gmail.com) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
+- 📫 How to reach me: [My Website]([p.[pongsantichai](https://piyachetnoy.github.io/piyachet-portfolio/)@gmail.com](https://piyachetnoy.github.io/piyachet-portfolio/)) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
 
 Visit my latest project <br>
 👉 [DealCat](https://dealcat.vercel.app) <br>

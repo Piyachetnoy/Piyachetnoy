@@ -35,7 +35,7 @@
       </td>
       <td align="center" width="300">
         <a href="https://langlab-web.vercel.app/login" target="_blank">
-          <img src="LangLab-thumbnail.png" width="300" height="200" alt="LangLab" style="border-radius: 12px;" />
+          <img src="langlab-thumbnail.png" width="300" height="200" alt="LangLab" style="border-radius: 12px;" />
           <br />
           <b>LangLab</b>
         </a>

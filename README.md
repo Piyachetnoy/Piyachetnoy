@@ -1,11 +1,11 @@
 ## 🏟️ Piyachetnoy
 
-- 👋 Hi, I'm Piyachet (Noy), from Thailand [@Japan](https://maps.app.goo.gl/BmJ658wHbkWp6T147)
-- 👀 Interested in software engineering / project management roles
-- 🌱 My main language is Python, and I'm currently trying JavaScript and web development
-- 💞️ Looking to collaborate on startup or any fun projects
-- 🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭
-- 📫 How to reach me: [My Website](https://piyachetnoy.github.io/piyachet-portfolio/) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
+👋 Hi, I'm Piyachet (Noy), from Thailand [@Japan](https://maps.app.goo.gl/BmJ658wHbkWp6T147)
+👀 Interested in software engineering / project management roles
+🌱 My main language is Python, and I'm currently trying JavaScript and web development
+💞️ Looking to collaborate on startup or any fun projects
+🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭
+📫 How to reach me: [My Website](https://piyachetnoy.github.io/piyachet-portfolio/) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
 
 ## 🌟 My Projects
 
@@ -35,7 +35,7 @@
       </td>
       <td align="center" width="300">
         <a href="https://langlab-web.vercel.app/login" target="_blank">
-          <img src="langlab-thumbnail.png" width="300" height="200" alt="LangLab" style="border-radius: 12px;" />
+          <img src="langlab.png" width="300" height="200" alt="LangLab" style="border-radius: 12px;" />
           <br />
           <b>LangLab</b>
         </a>

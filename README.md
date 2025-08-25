@@ -1,11 +1,11 @@
 ## 🏟️ Piyachetnoy
 
-👋 Hi, I'm Piyachet (Noy), from Thailand [@Japan](https://maps.app.goo.gl/BmJ658wHbkWp6T147)
-👀 Interested in software engineering / project management roles
-🌱 My main language is Python, and I'm currently trying JavaScript and web development
-💞️ Looking to collaborate on startup or any fun projects
-🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭
-📫 How to reach me: [My Website](https://piyachetnoy.github.io/piyachet-portfolio/) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)
+👋 Hi, I'm Piyachet (Noy), from Thailand [@Japan](https://maps.app.goo.gl/BmJ658wHbkWp6T147)<br>
+👀 Interested in software engineering / project management roles<br>
+🌱 My main language is Python, and I'm currently trying JavaScript and web development<br>
+💞️ Looking to collaborate on startup or any fun projects<br>
+🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭<br>
+📫 How to reach me: [My Website](https://piyachetnoy.github.io/piyachet-portfolio/) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)<br>
 
 ## 🌟 My Projects
 

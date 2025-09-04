@@ -1,6 +1,5 @@
 ## Piyachetnoy
-### [Portfolio (click)](https://drive.google.com/file/d/128whd1wi_94tqhOaz-D95KKwBkpjRfoM/view?usp=share_link)
-👋 Hi, I'm Piyachet (Noy), from Thailand [@Japan](https://maps.app.goo.gl/BmJ658wHbkWp6T147)<br>
+👋 Hi, I'm Piyachet (Noy), from Thailand @Japan => [Portfolio (click)](https://drive.google.com/file/d/128whd1wi_94tqhOaz-D95KKwBkpjRfoM/view?usp=share_link)<br>
 👀 Interested in software engineering / project management roles<br>
 🌱 My main language is Python, currently trying JavaScript and web development<br>
 🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭<br>

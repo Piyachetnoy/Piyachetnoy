@@ -3,7 +3,7 @@
 👀 Interested in software engineering / project management roles<br>
 💞️ Looking to collaborate on startup or any fun project<br>
 🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭<br>
-📫 How to reach me: [My Professional Website](https://piyachetnoy.vercel.app) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)<br>
+📫 How to reach me: <a href="https://piyachetnoy.vercel.app" target="_blank" rel="noopener noreferrer">My Professional Website</a> or <a href="https://www.linkedin.com/in/piyachet-p2145/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>
 
 ## Tech Stack
 
@@ -47,7 +47,7 @@
         <sub>AI email assistant</sub>
       </td>
       <td align="center" width="300">
-        <a href="https://langlab-web.vercel.app/login" target="_blank">
+        <a href="https://langlab-web.vercel.app/" target="_blank">
           <img src="langlab.png" width="300" height="200" alt="LangLab" style="border-radius: 12px;" />
           <br />
           <b>LangLab</b>

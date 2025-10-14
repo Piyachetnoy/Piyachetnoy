@@ -1,9 +1,9 @@
 ## Piyachetnoy
-👋 Hi, I'm Piyachet (Noy), from Thailand [Portfolio (click)](https://drive.google.com/file/d/128whd1wi_94tqhOaz-D95KKwBkpjRfoM/view?usp=share_link)<br>
+👋 Hi, I'm Piyachet (Noy), from Thailand<br>
 👀 Interested in software engineering / project management roles<br>
 💞️ Looking to collaborate on startup or any fun project<br>
 🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭<br>
-📫 How to reach me: [My Website](https://piyachetnoy.github.io/piyachet-portfolio/) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)<br>
+📫 How to reach me: [My Professional Website](https://piyachetnoy.vercel.app) or [LinkedIn](https://www.linkedin.com/in/piyachet-p2145/)<br>
 
 ## Tech Stack
 

@@ -1,7 +1,7 @@
 ## Piyachetnoy
 👋 Hi, I'm Piyachet (Noy), from Thailand<br>
-👀 Interested in software engineering / project management roles<br>
-💞️ Looking to collaborate on startup or any fun project<br>
+👀 Software engineering & Web development<br>
+💞️ Looking to collaborate on a startup project<br>
 🌐 I speak English 🇬🇧, Japanese 🇯🇵, and Thai 🇹🇭<br>
 📫 How to reach me: <a href="https://piyachetnoy.vercel.app" target="_blank" rel="noopener noreferrer">My Professional Website</a> or <a href="https://www.linkedin.com/in/piyachet-p2145/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>
 

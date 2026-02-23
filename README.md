@@ -33,7 +33,7 @@
   <tr>
           <td align="center" width="300">
         <a href="https://dealcat.vercel.app" target="_blank">
-          <img src="DeaLCat-shot.png" width="300" height="200" alt="DealCat" style="border-radius: 12px;" />
+          <img src="dealcat-screeshot.png" width="300" height="200" alt="DealCat" style="border-radius: 12px;" />
           <br />
           <b>DealCat</b>
         </a>
